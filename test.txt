@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Aakash created this file
+<<<<<<< HEAD
 Aakash again created this file
+=======
+>>>>>>> parent of c8081e1 (second commit aakash)
+=======
+>>>>>>> parent of b2ca1f2 (third commit aakash)
 lrwxr-xr-x@ 1 root  wheel  11 Dec  8 05:09 /tmp -> private/tmp
